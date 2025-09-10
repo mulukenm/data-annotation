@@ -12,7 +12,7 @@ Lists of data annotation tools:
 - Labelme: Image Polygonal Annotation with Python
 - UltimateLabeling: A multu-purpose Video labeling GUI in Python
 - Label Studio
-- Roboflow
+- Roboflow: computer vision
 - Labelbox
 - SuperAnnotate
 - Scale AI
